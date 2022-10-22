@@ -1,0 +1,10 @@
+img {
+  height: 500px;
+  width: 500px;
+  border: 10px rgb(154, 20, 20) groove;
+  margin: 0% 20%;
+}
+h1 {
+  color: rgb(41, 245, 102);
+  text-align: center;
+}
